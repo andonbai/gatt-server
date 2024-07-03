@@ -1,0 +1,9 @@
+/mnt/d/blackvision/code/gatt-server/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/blackvision/code/gatt-server/build/CMakeFiles/gatt-server.dir
+/mnt/d/blackvision/code/gatt-server/build/CMakeFiles/edit_cache.dir
+/mnt/d/blackvision/code/gatt-server/build/bluetooth/CMakeFiles/rebuild_cache.dir
+/mnt/d/blackvision/code/gatt-server/build/bluetooth/CMakeFiles/bluetooth.dir
+/mnt/d/blackvision/code/gatt-server/build/bluetooth/CMakeFiles/edit_cache.dir
+/mnt/d/blackvision/code/gatt-server/build/src/shared/CMakeFiles/rebuild_cache.dir
+/mnt/d/blackvision/code/gatt-server/build/src/shared/CMakeFiles/shared.dir
+/mnt/d/blackvision/code/gatt-server/build/src/shared/CMakeFiles/edit_cache.dir

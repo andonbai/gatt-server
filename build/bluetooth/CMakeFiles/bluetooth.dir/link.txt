@@ -1,0 +1,2 @@
+/usr/local/toolchain/R328/bin/arm-openwrt-linux-ar qc libbluetooth.a  CMakeFiles/bluetooth.dir/bluetooth.c.o CMakeFiles/bluetooth.dir/hci.c.o CMakeFiles/bluetooth.dir/sdp.c.o CMakeFiles/bluetooth.dir/uuid.c.o
+/usr/local/toolchain/R328/bin/arm-openwrt-linux-ranlib libbluetooth.a

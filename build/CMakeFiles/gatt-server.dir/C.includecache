@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//bluetooth/bluetooth.h
+stdio.h
+-
+stdint.h
+-
+string.h
+-
+endian.h
+-
+byteswap.h
+-
+netinet/in.h
+-
+
+..//src/shared/gatt-db.h
+stdio.h
+-
+
+/mnt/d/blackvision/code/gatt-server/gatt_server.c
+bluetooth/bluetooth.h
+-
+src/shared/gatt-db.h
+-
+unistd.h
+-
+

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.vue": "html",
+        "bluetooth.h": "c",
+        "l2cap.h": "c",
+        "uuid.h": "c",
+        "gatt-db.h": "c"
+    }
+}
